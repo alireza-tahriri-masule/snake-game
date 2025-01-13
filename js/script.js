@@ -161,7 +161,7 @@ function showWinMessage() {
   ctx.fillStyle = "#030712"; // Greenish background for win message
   ctx.fillRect(0, 0, canvasWidth, canvasHeight);
 
-  ctx.fillStyle = "#dcfce7"; // White text color
+  ctx.fillStyle = "#ffffff"; // White text color
   ctx.font =
     "48px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif";
   ctx.textAlign = "center";
@@ -185,7 +185,7 @@ function showGameOverMessage() {
   ctx.fillStyle = "#030712"; // Semi-transparent background for game over
   ctx.fillRect(0, 0, canvasWidth, canvasHeight);
 
-  ctx.fillStyle = "#fee2e2"; // White text color
+  ctx.fillStyle = "#ffffff"; // White text color
   ctx.font =
     "42px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif";
   ctx.textAlign = "center";

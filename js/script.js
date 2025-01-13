@@ -17,7 +17,7 @@ let snake = [
   { x: 60, y: 50 },
 ]; // Snake body segments
 // Maximum length of the snake to win the game
-const winning_length = Math.floor((Math.floor(canvasWidth / gridSize) * Math.floor(canvasHeight / gridSize)) * 0.8);
+const winning_length = 50;
 let fruit = { x: 140, y: 140 }; // Fruit position
 let direction = { x: 1, y: 0 }; // Initial direction (right)
 let nextDirection = { x: 1, y: 0 }; // Queue direction changes

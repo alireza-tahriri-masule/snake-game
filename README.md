@@ -3,11 +3,10 @@
 A simple and fun Snake game as a Chrome extension. Play the classic game directly in your browser with a toggleable fullscreen mode and the ability to save your high score.
 
 ## Screenshots
-
 <div style="display: flex; justify-content: space-around;">
-  <img src="./images/screenshot-01.png" alt="Snake-game Screenshot-01" width="30%" />
-  <img src="./images/screenshot-02.png" alt="Snake-game Screensho-02" width="30%" />
-  <img src="./images/screenshot-03.png" alt="Snake-game Screenshot-03" width="30%" />
+  <img src="https://github.com/user-attachments/assets/e710234e-65ae-49d9-afc6-8afd8c056cb0" alt="Snake-game Screenshot-01" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4efb4259-1c6d-4cff-9fc9-baf89c2b431f" alt="Snake-game Screenshot-02" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4f3d060d-afa0-4643-ad76-294ea3d67bdd" alt="Snake-game Screensho-03" width="30%" />
 </div>
 
 ## Features
